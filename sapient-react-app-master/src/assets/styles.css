@@ -1,0 +1,82 @@
+.table-bordered-view {
+    border: 2px solid #ddd;
+    position: relative;
+}
+
+.border-edit-trades {
+    border: 2px solid #ddd;
+    width: 423px  !important; 
+}
+.border-search-trade{
+    border: 2px solid #ddd;
+    padding: 1%;
+    background-color: #f8f8f8;
+}
+.space-bottom {
+    margin-bottom: 5%;
+}
+.space-top {
+    margin-top: 5%;
+}
+.label-padding {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.background-color-label{
+     background-color: #ddd;
+     border-bottom: 2px solid #ddd;
+}
+
+.space-right{
+    margin-right: 4%;
+}
+
+.form-control-color{
+    background-color: #f8f8f8 !important;
+}
+
+input{
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    box-shadow: none !important;
+    
+}
+
+.checkbox-space-top{
+    margin-top: 1%;
+}
+tr:hover { background: #f8f8f8; }
+
+.radio-space-top{
+    margin-top: 2%;
+}
+
+select{
+    background: transparent;
+    border-top: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
+    box-shadow: none !important;
+    
+}
+
+.label-margin{
+    margin-top: 4%;
+}
+.image-plus {
+    position: absolute;
+    bottom: -20px;
+    right: 80px;
+    color: #ddd;
+}
+.date{
+    padding-top: 4%
+}
+
+.edit-date{
+    padding-top: 2%
+}
+
